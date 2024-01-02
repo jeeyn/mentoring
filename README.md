@@ -1,3 +1,3 @@
 # mentoring
-dev career, project, etc.<br/>
-mentor [@jongfeel](https://github.com/jongfeel)
+mentor [@jongfeel](https://github.com/jongfeel)<br/>
+dev career, project, etc.
